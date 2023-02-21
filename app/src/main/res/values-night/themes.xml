@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SearchApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#EDC126</item>
+        <item name="colorPrimaryDark">#EDBF69</item>
+        <item name="colorAccent">#758283</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
